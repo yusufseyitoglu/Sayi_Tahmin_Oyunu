@@ -1,0 +1,6 @@
+C:\Users\Yusa\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.csprojAssemblyReference.cache
+C:\Users\Yusa\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\hafta5 sayı tahmin oyunu.exe
+C:\Users\Yusa\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\hafta5 sayı tahmin oyunu.pdb
+C:\Users\Yusa\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\hafta5 sayı tahmin oyunu.exe.config
+C:\Users\Yusa\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\hafta5 sayı tahmin oyunu.exe
+C:\Users\Yusa\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\hafta5 sayı tahmin oyunu.pdb
